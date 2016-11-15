@@ -1,13 +1,13 @@
 
 function CreateGrants()
 	
-	CreateEasyMoneyGrant();
+	CreateMassEmployment();
 	
 end
 
-function CreateEasyMoneyGrant()
+function CreateMassEmployment()
 
-	Objective.CreateGrant  ( "Grant_EasyMoneyGrant", 0, 10000000 )
+	Objective.CreateGrant  ( "Grant_MassEmployment", 0, 2000 )
 	
 end
 
