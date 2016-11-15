@@ -3,5 +3,8 @@
 # Objectives, Grants
 # =============================================================================
 
-objective_Grant_Mass Employment                 Mass Employment
-objective_Grant_EasyMoneyGrant_description      To prevent federal money to be given to jobless people, you have to hire some guards.
+objective_Grant_MassEmployment                  Super Grant: Mass Employment
+objective_Grant_MassEmployment_description      To prevent federal money to be given to jobless people, you have to hire some guards.
+
+objective_Grant_MassEmployment_MyRequirement1      Build a staffroom.
+objective_Grant_MassEmployment_MyRequirement2      Hire at least 30 guards.
