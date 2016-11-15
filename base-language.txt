@@ -1,0 +1,7 @@
+﻿
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_Grant_EasyMoneyGrant                  Easy Money Grant
+objective_Grant_EasyMoneyGrant_description      Easy Money Grant of 10 million dollars.
