@@ -3,5 +3,6 @@ Name                 "Super Grants"
 Author               dade-tommy 
 Description          "Custom Grants for your prison."  
 Version              v1.0
+Date                 15/11/2016
 URL                  "https://github.com/dade-tommy/prison-grantmod"
 IsTranslation        false
