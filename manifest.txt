@@ -1,8 +1,7 @@
 
-Name                 "Easy Money Grant"  
-Author               TCJaime  
-Description          "In order to facilitate the building of a world class prison, the Department of Corrections hereby grants you 10 million dollars to use as you see fit.\r\n\r\nNo muss, fuss, or prerequisites.  Just click on the grant and it will instantly provide money to build your dream (or nightmare) prison. "  
-IsTranslation        false  
-FileID               F663822709  
-UpdateTime           1460418393  
-SteamAuthor          A76561198030831426  
+Name                 "Super Grants"  
+Author               dade-tommy 
+Description          "Custom Grants for your prison."  
+Version              v1.0
+URL                  "https://github.com/dade-tommy/prison-grantmod"
+IsTranslation        false
