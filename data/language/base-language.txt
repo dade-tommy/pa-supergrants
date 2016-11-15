@@ -3,5 +3,5 @@
 # Objectives, Grants
 # =============================================================================
 
-objective_Grant_EasyMoneyGrant                  Easy Money Grant
-objective_Grant_EasyMoneyGrant_description      Easy Money Grant of 10 million dollars.
+objective_Grant_Mass Employment                 Mass Employment
+objective_Grant_EasyMoneyGrant_description      To prevent federal money to be given to jobless people, you have to hire some guards.
