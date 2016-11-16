@@ -3,8 +3,25 @@
 # Objectives, Grants
 # =============================================================================
 
-objective_Grant_MassEmployment                  Super Grant: Mass Employment
-objective_Grant_MassEmployment_description      To prevent federal money to be given to jobless people, you have to hire some guards.
-
+objective_Grant_MassEmployment                     Super Grant: Mass Employment
+objective_Grant_MassEmployment_description         To prevent federal money to be given to jobless people, you have to hire some guards.
 objective_Grant_MassEmployment_MyRequirement1      Build a staffroom.
 objective_Grant_MassEmployment_MyRequirement2      Hire at least 30 guards.
+
+objective_Grant_StreetCleanup                      Super Grant: Clean up the Street
+objective_Grant_StreetCleanup_description          The Secretary of Education wants to get a lower re-offending rate by teaching the prisoners. Help the country by having an active educational programm and enough prisoners using it.
+objective_Grant_StreetCleanup_MyRequirement1       Have at least 60 inmates.
+
+objective_Grant_SecuredPension                     Super Grant: Secured Pension
+objective_Grant_SecuredPension_description         The prison board want their Pension to be secured, as the supervisory chairman told you in confidence. If you don't show them a good cashflow, they will be seriously unhappy.
+objective_Grant_SecuredPension_Cashflow            Have a cashflow of 2000+
+
+#
+
+objective_Grant_StateBondInvestment                Super Grant: State Bond Investment
+objective_Grant_StateBondInvestment_description    Buy State Bonds and sell them later for a larger return.
+objective_Grant_StateBondInvestment_Wait           Wait for bonds to be sold...
+
+objective_Grant_WallStreetInvestment               Super Grant: Wall Street Investment
+objective_Grant_WallStreetInvestment_description   Your lawyer once worked at the wall street. Maybe he could buy some shares to make some profit...
+objective_Grant_WallStreetInvestment_Wait          Wait for share profit...
