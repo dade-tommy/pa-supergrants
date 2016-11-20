@@ -1,7 +1,7 @@
 -- Super Grants
 -- Community Prison Architect Mod
 -- Author: dade-tommy
--- v1.1
+-- v1.1.3
 -- Further information: https://github.com/dade-tommy/pa-supergrants
 
 -- -x- -x- -x- -x- -x-
@@ -55,7 +55,7 @@ end
 function  CreateStateBondInvestment()
 	Objective.CreateGrant           	( "Grant_StateBondInvestment", -10000, 20000 )
 	Objective.SetPreRequisite       	( "Unlocked", "Finance", 0 )
-	Objective.SetPreRequisite       	( "Unlocked", "Lawyer", 0 )
+	Objective.RequireObjects                ( "Lawyer", 1 )
 	Objective.SetPreRequisite       	( "Completed", "Grant_ShortTermInvestment", 0 )
 	Objective.SetPreRequisite       	( "Completed", "Grant_LongTermInvestment", 0 )
 	Objective.HiddenWhileLocked()
@@ -68,7 +68,7 @@ end
 function CreateWallStreetInvestment()
 	Objective.CreateGrant           	( "Grant_WallStreetInvestment", -25000, 50000 )
 	Objective.SetPreRequisite       	( "Unlocked", "Finance", 0 )
-	Objective.SetPreRequisite       	( "Unlocked", "Lawyer", 0 )
+	Objective.RequireObjects                ( "Lawyer", 1 )
 	Objective.SetPreRequisite       	( "Completed", "Grant_ShortTermInvestment", 0 )
 	Objective.SetPreRequisite       	( "Completed", "Grant_LongTermInvestment", 0 )
 	Objective.SetPreRequisite       	( "Completed", "Grant_StateBondInvestment", 0 )
